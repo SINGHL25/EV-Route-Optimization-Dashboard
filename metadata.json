@@ -1,0 +1,5 @@
+{
+  "name": "EV Route Optimization Dashboard",
+  "description": "An interactive, realistic EV route optimization dashboard for a smart city, featuring real-time traffic, charging station availability, energy consumption charts, and predictive alerts.",
+  "requestFramePermissions": []
+}
